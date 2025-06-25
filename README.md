@@ -24,6 +24,7 @@ An Android app built with **Kotlin** that allows users to search and view high-q
 
 ## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/unsplash-photo-browser.git
+1. Download the zip file from GitHub
+2. Unzip the downloaded file.
+3. Open the project in Android Studio.
+4. Build and run the app on an emulator or physical Android device.
